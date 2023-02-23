@@ -5,7 +5,7 @@
 * @j: second parameter
 * Return: k
 */
-int add(int i , int j)
+int add(int i, int j)
 {
 	int k;
 
